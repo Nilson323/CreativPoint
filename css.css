@@ -5,7 +5,8 @@ font-family:impact;
 body{
 	text-align:left-side;
 	color:white;
-	background:gray;
+	ackground-image:url(https://images.freecreatives.com/wp-content/uploads/2016/04/Facebook-Minimalistic-Wallpaper.png);
+	background-size:cover;
 	padding:5px;
 	font-family:Candara;
 	font-size:18px;
