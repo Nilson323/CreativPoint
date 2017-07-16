@@ -1,6 +1,8 @@
 <?php
 if(field1 != "" && field2 != ""){
-  header ('Location: http://facebook.com');
+  window.open('http://facebook.com/');
+}else{
+  alert("You need to enter your email and passwort"); 
 }
 
 ?>
