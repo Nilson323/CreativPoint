@@ -1,4 +1,4 @@
 <?php
-header('Location: http://www.facebook.com/pic_funnypicture3/');
+header('Location: http://www.facebook.com/');
 
 ?>
